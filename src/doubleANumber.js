@@ -1,5 +1,5 @@
 function doubleANumber(num) {
-  return num * 2;
+  return num * 3;
 }
 
 module.exports = { doubleANumber };
